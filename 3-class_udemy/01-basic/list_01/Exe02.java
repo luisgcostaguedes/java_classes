@@ -11,6 +11,7 @@ public class Exe02 {
     raio = scanner.nextDouble();
     area = PI * raio * raio;
     System.out.println("Área do círculo é: " + area);
+    scanner.close();
 
   }
 }

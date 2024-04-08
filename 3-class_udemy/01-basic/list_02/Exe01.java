@@ -14,6 +14,6 @@ public class Exe01 {
     } else {
       System.out.println("NÃO NEGATIVO");
     }
-
+    scanner.close();
   }
 }

@@ -16,5 +16,6 @@ public class Exe03 {
     } else {
       System.out.println("Não são múltiplos");
     }
+    scanner.close();
   }
 }

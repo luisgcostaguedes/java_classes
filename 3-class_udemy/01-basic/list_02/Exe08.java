@@ -27,6 +27,6 @@ public class Exe08 {
 		} else {
 			System.out.printf("R$ %.2f%n", imposto);
 		}
-
+		scanner.close();
 	}
 }

@@ -13,5 +13,6 @@ public class Exe01 {
     b = scanner.nextInt();
     soma = a + b;
     System.out.println("Resultado da soma é: " + soma);
+    scanner.close();
   }
 }

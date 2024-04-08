@@ -17,7 +17,7 @@ public class Exe04 {
     }
 
     System.out.println("O jogo durou " + duracao + " horas");
-
+    scanner.close();
   }
 
 }

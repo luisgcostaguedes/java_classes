@@ -40,6 +40,7 @@ public class Exe05 {
         System.out.println("Código inválido");
         break;
     }
+    scanner.close();
   }
 
 }

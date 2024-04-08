@@ -29,6 +29,6 @@ public class Exe05 {
     System.out.printf("TRAPEZIO: %.2f%n", areaTrapezio);
     System.out.printf("QUADRADO: %.2f%n", areaQuadrado);
     System.out.printf("RETANGULO: %.2f%n", areaRetangulo);
-
+    scanner.close();
   }
 }

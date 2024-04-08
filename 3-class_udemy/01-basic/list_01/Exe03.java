@@ -12,6 +12,7 @@ public class Exe03 {
     d = scanner.nextInt();
     diferenca = (a * b - c * d);
     System.out.println("Diferença dos produtos é: " + diferenca);
+    scanner.close();
   }
 }
 

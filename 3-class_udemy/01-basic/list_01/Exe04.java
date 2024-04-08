@@ -17,6 +17,6 @@ public class Exe04 {
     valor_Hora = scanner.nextDouble();
     salario = horas_Trabalhadas * valor_Hora;
     System.out.printf("O funcionário: " + numero_Funcionario + " deve receber: %.2f%n ", salario);
-
+    scanner.close();
   }
 }

@@ -14,5 +14,6 @@ public class Exe02 {
       } else {
         System.out.println("IMPAR");
       }
+      scanner.close();
   }
 }
