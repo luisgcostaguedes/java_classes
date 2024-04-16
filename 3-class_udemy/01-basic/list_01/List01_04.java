@@ -1,7 +1,8 @@
+
 import java.util.Locale;
 import java.util.Scanner;
 
-public class Exe04 {
+public class List01_04 {
   public static void main(String[] args) {
     Locale.setDefault(Locale.US);
     Scanner scanner = new Scanner(System.in);

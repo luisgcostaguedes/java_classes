@@ -1,6 +1,7 @@
+
 import java.util.Scanner;
 
-public class Exe05 {
+public class List02_05 {
   public static void main(String[] args) {
     int codProduto, quantProduto;
     double totalPedido;

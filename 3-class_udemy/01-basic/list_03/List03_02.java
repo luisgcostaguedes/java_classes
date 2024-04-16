@@ -1,6 +1,7 @@
+
 import java.util.Scanner;
 
-public class Exe02 {
+public class List03_02 {
   public static void main(String[] args) {
     Scanner scanner = new Scanner(System.in);
     System.out.println("Digite a quantidade de números a serem analisados: ");

@@ -1,6 +1,7 @@
+
 import java.util.Scanner;
 
-public class Exe04 {
+public class List02_04 {
   public static void main(String[] args) {
     Scanner scanner = new Scanner(System.in);
     int horaInicial, horaFinal, duracao;

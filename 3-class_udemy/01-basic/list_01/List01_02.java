@@ -1,6 +1,7 @@
+
 import java.util.Scanner;
 
-public class Exe02 {
+public class List01_02 {
 
   public static void main(String[] args) {
     Scanner scanner = new Scanner(System.in);

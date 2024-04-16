@@ -1,5 +1,6 @@
 
-public class Exe01 {
+
+public class List03_01 {
   public static void main(String[] args) {
 
     java.util.Scanner scanner = new java.util.Scanner(System.in);

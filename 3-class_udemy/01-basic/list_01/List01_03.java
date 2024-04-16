@@ -1,6 +1,7 @@
+
 import java.util.Scanner;
 
-public class Exe03 {
+public class List01_03 {
   public static void main(String[] args) {
     Scanner scanner = new Scanner(System.in);
     int a, b, c, d, diferenca;

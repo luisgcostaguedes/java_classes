@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="1-class/src"/>
+	<classpathentry kind="src" path="2-system-smartv/src"/>
+	<classpathentry kind="src" path="3-class_udemy/01-basic/list_01"/>
+	<classpathentry kind="src" path="3-class_udemy/01-basic/list_02"/>
+	<classpathentry kind="src" path="3-class_udemy/01-basic/list_03"/>
+	<classpathentry kind="output" path="1-class/bin"/>
+</classpath>

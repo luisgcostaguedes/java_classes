@@ -1,6 +1,7 @@
+
 import java.util.Locale;
 
-public class Exe07 {
+public class List02_07 {
 
   public static void main(String[] args) {
     Locale.setDefault(Locale.US);
